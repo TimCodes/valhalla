@@ -1,0 +1,14 @@
+{
+  "name": "valhalla",
+  "version": "1.0.0",
+  "description": "VulnFix POC test Node.js app: valhalla",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo no-tests && exit 0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "protobufjs": "^7.5.4"
+  }
+}
